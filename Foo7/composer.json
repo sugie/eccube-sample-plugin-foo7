@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/Foo7",
+  "version": "1.0.0",
+  "description": "Foo7",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.7"
+  },
+  "extra": {
+    "code": "Foo7"
+  }
+}
